@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+First run `npm install`.
+
+Then to get it to work, I had to run `npm install --save --save-exact react-scripts@5.0.1`.
+
+Then run with `npm start`.
+
 ## Available Scripts
 
 In the project directory, you can run:
